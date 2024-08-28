@@ -1,4 +1,4 @@
-## TEST
+## TEST2
 
 ## 새롭게 시도해본 것
 - background-clip: text; /* 텍스트만큼만 배경색이 적용됨 */
